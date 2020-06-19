@@ -1,0 +1,88 @@
+.navbar img{
+    width: 150px !important;
+    height: auto !important;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.center h1{
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+    border-radius: 20px;
+}
+.center img{
+    width: 30%;
+    height: 40%;
+}
+/*About*/
+.heading{
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+table{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+table th{
+    text-align: center;
+}
+/*Gallery/Nishan-e-Haider Holders*/
+body{
+    text-align: center;
+}
+.image img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.detail h1{
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+/*Contact*/
+.form input{
+    width: 50%;
+    height: 40px;
+    margin-top: 2%;
+    border-radius: 20px;
+}
+.form button{
+    width: 20%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+textarea{
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+    margin-top: 2%;
+}
+/*Footer*/
+.page-footer{
+    background-color: rgb(255, 174, 0);
+    margin-top: 10px !important;
+}
+.fa{
+    font-size: 30px !important;
+    margin-left: 10px !important;
+}
+.footer-copyright{
+    background-color: green;
+    color: white;
+}
+.footer-copyright a{
+    color: white;
+}
